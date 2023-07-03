@@ -13,7 +13,8 @@ int main() {
     strcpy(person1.name, "John");
     person1.age = 30;
 
-    // 
+    // %s - indicate the location where a string should be printed or read
+    // \n - represent a newline or line break in a string.
     printf("Name: %s\n", person1.name);
     printf("Age: %d\n", person1.age);
 
