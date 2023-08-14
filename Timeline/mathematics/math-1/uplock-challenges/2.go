@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-  a := 2
+  a := [...]int{11,3,-4}
   rational(a)
 }
 
