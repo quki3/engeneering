@@ -1,6 +1,6 @@
 /* TEORY
 
-square root of x = [2]root{x}
+square root of x = 2?
 periodic = ~
 
 [2]root{25} = 25^1/2 = [2]root{ 5 * 5 ] = [2]root{5} * [2]root{5} = 5
@@ -10,6 +10,10 @@ periodic = ~
 33/9 = 3,6~ (Q rational number)(periodic)
 
 [2]root{11} = 
+
+[2]root{36} = 6 N W 
+
+3.212112 = [2]root{9+ }
 
 */
 package main
