@@ -6,3 +6,4 @@
 5. - Performing calculation using the order of operations
 6. - Properties of real number.
 7. - Evaluating algebraic expressions
+8. - Expponent and csientific notacion
