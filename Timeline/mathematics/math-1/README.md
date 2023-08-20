@@ -8,3 +8,4 @@
 7. - Evaluating algebraic expressions
 8. - Expponent and csientific notacion
 9. - Radicals and Rationals Exponents
+10. - Simplifying rational exponent
