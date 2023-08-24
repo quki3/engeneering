@@ -10,3 +10,4 @@
 9. - Radicals and Rationals Exponents
 10. - Simplifying rational exponent
 11. - Polynomials
+12. - multiplying rational expressions
