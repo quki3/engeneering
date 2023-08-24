@@ -9,4 +9,7 @@ x^3 - a = (x - a) ( x^2 + ax +a^2)
 ax^{c/d} + bx^{e/f} = gcfx^{minor exponent} ( remeinder^{remeinder} + remeinder^{remeinder} )
 
 
+( x^3 + a ) / ( x^2 + ax + b ) = [ (x + a) ( x^2 -ax + a^2) ] / [ (x + GCF1)*(x + GCF2) ]
+
+
 ***/
